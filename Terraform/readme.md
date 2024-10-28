@@ -34,7 +34,7 @@ This deployment uses the following best practices to enhance security of the Azu
 
 Refer to the comments in *cosmosdb.tf*, and *vnet.tf* files and edit these files as required to remove the above mentioned restrictions.
 
-## Deploy infrastructure with Bicep
+## Deploy infrastructure with Terraform
 
 **1. Clone the repository**
 
